@@ -1,0 +1,30 @@
+commit ba5bfcc33f3a9c3990b748aab7e3fe3c015267d6
+Author: sheyla <scg6@njit.edu>
+Date:   Fri Sep 19 12:40:05 2025 -0400
+
+    Revert "COMMIT REASON:"
+    
+    This reverts commit 2f54b5e62bb9458153efc00d868d0807b95d49cb.
+    +++++ commit is being reverted
+
+commit 2f54b5e62bb9458153efc00d868d0807b95d49cb
+Author: sheyla <scg6@njit.edu>
+Date:   Fri Sep 19 12:30:02 2025 -0400
+
+    COMMIT REASON:
+    
+    NEW FILE ADDED [cutefile]!
+
+commit 5eb54c3fdc65129eaa065e190c599373e6035b7e
+Author: sheyla <scg6@njit.edu>
+Date:   Fri Sep 19 12:21:33 2025 -0400
+
+    A NEW MESSAGE WAS ADDED INTO FILE: HOSTNAME
+    confirmation commit!
+
+commit 3a4e8f023d6518e70c06cee693a6cbbf024aaa08
+Author: sheyla <scg6@njit.edu>
+Date:   Fri Sep 19 11:38:57 2025 -0400
+
+    Initial commit --- Initial starting point of the repo
+    Adding files from Lab 3
